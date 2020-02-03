@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35947e77-aaa6-452d-a790-80e9243021e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XFwY1PGmf6c7kKSNCVww2qlVVw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.RapiCreditTestApplication">
+    <configuration name="RapiCreditTestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rapiCredit.test.RapiCreditTestApplication" />
+      <module name="TestRapiCredit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rapiCredit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestRapiCredit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rapiCredit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rapiCredit.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rapiCredit.test.ClientServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.createClientEmailInvalidTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestRapiCredit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rapiCredit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rapiCredit.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rapiCredit.test.ClientServiceTest" />
+      <option name="METHOD_NAME" value="createClientEmailInvalidTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.createProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestRapiCredit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rapiCredit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rapiCredit.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rapiCredit.test.ClientServiceTest" />
+      <option name="METHOD_NAME" value="createProductTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceTest.updateClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestRapiCredit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rapiCredit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rapiCredit.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rapiCredit.test.ClientServiceTest" />
+      <option name="METHOD_NAME" value="updateClientTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RapiCreditTestApplication" />
+        <item itemvalue="JUnit.ClientServiceTest.updateClientTest" />
+        <item itemvalue="JUnit.ClientServiceTest" />
+        <item itemvalue="JUnit.ClientServiceTest.createClientEmailInvalidTest" />
+        <item itemvalue="JUnit.ClientServiceTest.createProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35947e77-aaa6-452d-a790-80e9243021e8" name="Default Changelist" comment="" />
+      <created>1580655194157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580655194157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1580655653675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1580655653675" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580753090857">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1580753090857" />
+    <state x="253" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580750440945">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="253" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1580750440945" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580753005398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580753005398" />
+    <state x="371" y="89" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580663720206">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580663720206" />
+    <state x="399" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580755785434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1580755785434" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1580756055789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580756055789" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1580756055788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580756055788" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1580756055788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580756055788" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1580756055788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580756055788" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1580754452354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580754452354" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1580754452354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580754452354" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1580754452354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580754452354" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1580754452354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580754452354" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1580754951934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1580754951934" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580749373579">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580749373579" />
+    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1580755547264">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580755547264" />
+    <state x="348" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1580663697526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1580663697526" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rapiCredit/test/ClientServiceTest.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rapiCredit/test/ClientServiceTest.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rapiCredit/test/services/ClientService.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rapiCredit/test/controllers/ClientController.java</url>
+          <line>52</line>
+          <properties class="com.rapiCredit.test.controllers.ClientController" method="updateClient">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
